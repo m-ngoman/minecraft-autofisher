@@ -1,0 +1,6 @@
+dist/
+build/
+__pycache__/
+*.pyc
+autofish_debug.png
+autofish_selftest.txt
